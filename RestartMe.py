@@ -1,6 +1,6 @@
 """
 Auto open specified item on close
-Creative Commons Attribution-NonCommercial 4.0 International License
+License - MIT
 Author - Jack Bayliss 03/07/2020
 """
 import subprocess,platform,time,configparser
