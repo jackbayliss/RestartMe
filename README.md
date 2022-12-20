@@ -11,10 +11,8 @@ Simply edit the `config.ini` to include the path to a file, for example `./AnExe
 If you have any issues feel free to create an issue.
 
 ## Contributing
-If you'd like to contribute please feel free to contact me via PM or email. If you check out I'd be more than happy to share the source code, in which you can contribute.
+If you'd like to contribute please feel free to create a PR and contribute.
 
-## Donations
-Although this bot is completely free and there's no cost, if you'd like to support the Bot you can [buy me a beer](https://www.paypal.me/jackbaylissdev) :beer:
 
 ## License
 This work is licensed under the MIT license.  
